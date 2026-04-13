@@ -30,7 +30,7 @@ openBtn.Size = UDim2.new(0,60,0,60)
 openBtn.Position = UDim2.new(0,15,0.5,-30)
 openBtn.BackgroundColor3 = Color3.fromRGB(20,20,25)
 openBtn.TextColor3 = Color3.fromRGB(100,200,255)
-openBtn.Text = "⚡"
+openBtn.Text = "https://create.roblox.com/store/asset/134885925741792/jziojzfoijzf"
 
 ------------------------------------------------
 -- MAIN FRAME
