@@ -39,7 +39,7 @@ local VALID_KEYS = {
 }
 
 -- Key Website (Linkvertise Style — ersetze mit deiner echten URL)
-local KEY_WEBSITE = "https://linkvertise.com/YOUR_LINK_HERE"
+local KEY_WEBSITE = "https://link-hub.net/5076357/RRaG4BQseIme"
 
 ------------------------------------------------
 -- SOUND
