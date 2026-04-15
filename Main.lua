@@ -30,7 +30,7 @@ local S = {
     unlock="⊟", bolt="⚡",  chart="▣", world="⊜",
 }
 
-local KEY_WEBSITE = "https://DEINE-URL-HIER.com"
+local KEY_WEBSITE = "https://godvalleykey.tiiny.site/"
 
 local ADMIN_KEYS = {
     ["GODVALLEY-ADMIN-2024"] = true,
