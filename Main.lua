@@ -35,7 +35,7 @@ local S = {
 -- kostenlosen Hosting-Dienst hochladen z.B.:
 -- https://pages.github.com  oder  https://netlify.com
 ------------------------------------------------
-local KEY_WEBSITE = "godvalleyhub.tiiny.site"
+local KEY_WEBSITE = "https://godvalleyhub.tiiny.site/"
 
 ------------------------------------------------
 -- KEY VALIDIERUNG
