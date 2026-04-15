@@ -533,7 +533,7 @@ local function buildUI(keyType)
     local CH2=Instance.new("Frame",MF) CH2.Size=UDim2.new(1,-16,1,-(TO+8)) CH2.Position=UDim2.new(0,8,0,TO) CH2.BackgroundTransparency=1 CH2.ClipsDescendants=true CH2.BorderSizePixel=0 CH2.ZIndex=21
 
     local TABS={
-        {n="Perf",  l=S.bolt.."Perf"},
+        {n="Perf",  l=S.bolt.."Main"},
         {n="Visual",l=S.eye.."Visual"},
         {n="Battle",l=S.sword.."Battle"},
         {n="Emote", l=S.star.."Emote"},
