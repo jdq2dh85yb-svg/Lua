@@ -953,7 +953,7 @@ end
 -- SCREEN GUI
 -- ══════════════════════════════════════════════════════════════
 local GUI = Instance.new("ScreenGui")
-GUI.Name           = "GodValleyV8"
+GUI.Name           = "Peak"
 GUI.ResetOnSpawn   = false
 GUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 GUI.IgnoreGuiInset = true
